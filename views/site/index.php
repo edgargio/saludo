@@ -2,12 +2,12 @@
 
 /* @var $this yii\web\View */
 
-$this->title = 'My Yii Application';
+$this->title = 'SapGio';
 ?>
 <div class="site-index">
 
     <div class="jumbotron">
-        <h1>BIENVENIDO!</h1>
+        <h1>¡ - BIENVENIDO - !</h1>
 
         <p class="lead">You have successfully created your Yii-powered application.</p>
 
